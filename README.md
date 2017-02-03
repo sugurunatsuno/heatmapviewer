@@ -1,6 +1,5 @@
 
-#Name
-heatmapviewer  
+#heatmapviewer  
 
 Overview
 CSVに保存されている座標をもとに画像上に円を描画します。  
